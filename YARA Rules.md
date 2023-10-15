@@ -27,7 +27,7 @@ rule yaraRule {
 }
 ```
 
-# Tools
+### Tools
 * **YARA**: stands for "Yet Another Recursive Acronym" to search for patterns including strings and hashes, used by analysts to sweep for malicious files.
 For windows download ```yara-4.3.2-2150-win64.zip``` from https://github.com/VirusTotal/yara/releases 
 ```
