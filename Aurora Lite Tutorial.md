@@ -2,7 +2,7 @@
 **Aurora lite by Nextron Systems** is an EDR based on Sigma Rules.
 
 
-
+### Installation steps
 1- Visit https://www.nextron-systems.com/aurora/ and click "download AURORA Lite".
 
 2- Enter an email address that will receive the license and the URL to download the exeutable.
